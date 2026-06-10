@@ -22,7 +22,7 @@ A Python project demonstrating unified access to multiple Large Language Model (
 
 1. Clone the repository:
 ```bash
-git clone https://github.ibm.com/amungeka/llm-gateways.git
+git clone https://github.com/mungekarabhishek/llm-gateways
 cd llm-gateways
 ```
 
